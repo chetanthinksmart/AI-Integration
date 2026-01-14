@@ -14,11 +14,17 @@ SUMMARY OF CHANGES - CC-311
 
 3. Created test1.py
    - Created a new Python file named test1.py
-   - Added two variables: variable1 (string) and variable2 (integer)
+   - Added two variables: variable1 = "Hello" and variable2 = "World"
+   - File contains basic Python code with variable declarations
+
+4. Created test2.py
+   - Created a new Python file named test2.py
+   - Added two variables: variable1 = "Hello" and variable2 = "World"
    - File contains basic Python code with variable declarations
 
 WORK COMPLETED:
 - HTML page created and configured with background image
 - Image file copied to project directory
 - Python file test1.py created with two variables
+- Python file test2.py created with two variables
 - All files are ready for use
