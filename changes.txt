@@ -1,0 +1,20 @@
+CHANGES LOG - CC-314
+====================
+
+Created C# program to add two numbers:
+
+1. Created Program.cs
+   - Console application that prompts user for two numbers
+   - Validates input using TryParse
+   - Calculates and displays the sum
+   - Handles invalid input with error message
+   - Uses double type to support decimal numbers
+
+2. Created AddTwoNumbers.csproj
+   - .NET 8.0 project configuration
+   - Console application output type
+   - Implicit usings and nullable reference types enabled
+
+Files Created:
+- Program.cs
+- AddTwoNumbers.csproj
